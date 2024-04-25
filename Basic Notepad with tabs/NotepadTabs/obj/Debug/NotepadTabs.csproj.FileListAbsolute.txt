@@ -1,0 +1,10 @@
+D:\faculta\poo\Notepad\NotepadTabs\bin\Debug\NotepadTabs.exe.config
+D:\faculta\poo\Notepad\NotepadTabs\bin\Debug\NotepadTabs.exe
+D:\faculta\poo\Notepad\NotepadTabs\bin\Debug\NotepadTabs.pdb
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.csprojAssemblyReference.cache
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.Form1.resources
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.Properties.Resources.resources
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.csproj.GenerateResource.cache
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.csproj.CoreCompileInputs.cache
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.exe
+D:\faculta\poo\Notepad\NotepadTabs\obj\Debug\NotepadTabs.pdb

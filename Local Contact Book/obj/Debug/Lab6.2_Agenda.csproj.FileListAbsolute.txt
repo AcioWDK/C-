@@ -1,0 +1,10 @@
+D:\faculta\poo\Lab6.2_Agenda\bin\Debug\Lab6.2_Agenda.exe.config
+D:\faculta\poo\Lab6.2_Agenda\bin\Debug\Lab6.2_Agenda.exe
+D:\faculta\poo\Lab6.2_Agenda\bin\Debug\Lab6.2_Agenda.pdb
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6.2_Agenda.csprojAssemblyReference.cache
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6._2_Agenda.Form1.resources
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6._2_Agenda.Properties.Resources.resources
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6.2_Agenda.csproj.GenerateResource.cache
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6.2_Agenda.csproj.CoreCompileInputs.cache
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6.2_Agenda.exe
+D:\faculta\poo\Lab6.2_Agenda\obj\Debug\Lab6.2_Agenda.pdb

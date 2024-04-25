@@ -1,0 +1,10 @@
+D:\faculta\poo\Lab6.1\bin\Debug\Lab6.1.exe.config
+D:\faculta\poo\Lab6.1\bin\Debug\Lab6.1.exe
+D:\faculta\poo\Lab6.1\bin\Debug\Lab6.1.pdb
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6.1.csprojAssemblyReference.cache
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6._1.Form1.resources
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6._1.Properties.Resources.resources
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6.1.csproj.GenerateResource.cache
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6.1.csproj.CoreCompileInputs.cache
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6.1.exe
+D:\faculta\poo\Lab6.1\obj\Debug\Lab6.1.pdb

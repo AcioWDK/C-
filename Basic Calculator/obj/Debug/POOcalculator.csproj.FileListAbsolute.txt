@@ -1,0 +1,23 @@
+D:\faculta\poo\calculator\POOcalculator\bin\Debug\POOcalculator.exe.config
+D:\faculta\poo\calculator\POOcalculator\bin\Debug\POOcalculator.exe
+D:\faculta\poo\calculator\POOcalculator\bin\Debug\POOcalculator.pdb
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.csprojAssemblyReference.cache
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.Form1.resources
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.Properties.Resources.resources
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.csproj.GenerateResource.cache
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.csproj.CoreCompileInputs.cache
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.exe
+D:\faculta\poo\calculator\POOcalculator\obj\Debug\POOcalculator.pdb
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\bin\Debug\POOcalculator.exe.config
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\bin\Debug\POOcalculator.exe
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\bin\Debug\POOcalculator.pdb
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.csprojAssemblyReference.cache
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.Form1.resources
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.Properties.Resources.resources
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.csproj.GenerateResource.cache
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.csproj.CoreCompileInputs.cache
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.exe
+D:\faculta\poo\calculator-ungureanu stefan\POOcalculator\obj\Debug\POOcalculator.pdb
+e:\PC stuff\faculta\anu 2\poo\calculator\POOcalculator\obj\Debug\POOcalculator.csproj.AssemblyReference.cache
+e:\PC stuff\faculta\anu 2\poo\calculator\POOcalculator\obj\Debug\POOcalculator.exe
+e:\PC stuff\faculta\anu 2\poo\calculator\POOcalculator\obj\Debug\POOcalculator.pdb

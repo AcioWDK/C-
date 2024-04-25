@@ -1,0 +1,13 @@
+D:\faculta\poo\lower to upper\bin\Debug\lower to upper.exe.config
+D:\faculta\poo\lower to upper\bin\Debug\lower to upper.exe
+D:\faculta\poo\lower to upper\bin\Debug\lower to upper.pdb
+D:\faculta\poo\lower to upper\obj\Debug\lower to upper.csprojAssemblyReference.cache
+D:\faculta\poo\lower to upper\obj\Debug\lower_to_upper.Form1.resources
+D:\faculta\poo\lower to upper\obj\Debug\lower_to_upper.Properties.Resources.resources
+D:\faculta\poo\lower to upper\obj\Debug\lower to upper.csproj.GenerateResource.cache
+D:\faculta\poo\lower to upper\obj\Debug\lower to upper.csproj.CoreCompileInputs.cache
+D:\faculta\poo\lower to upper\obj\Debug\lower to upper.exe
+D:\faculta\poo\lower to upper\obj\Debug\lower to upper.pdb
+e:\PC stuff\faculta\anu 2\poo\lower to upper\obj\Debug\lower to upper.csproj.AssemblyReference.cache
+e:\PC stuff\faculta\anu 2\poo\lower to upper\obj\Debug\lower to upper.exe
+e:\PC stuff\faculta\anu 2\poo\lower to upper\obj\Debug\lower to upper.pdb
